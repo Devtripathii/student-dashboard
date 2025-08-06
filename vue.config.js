@@ -1,3 +1,4 @@
 module.exports = {
-  publicPath: '/student-dashboard/'
+  publicPath: '/student-dashboard/',
+  lintOnSave: false
 };
